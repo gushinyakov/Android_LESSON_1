@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="vertical">Vertical</string>
+
+    <string-array name="spinnerStyles">
+        <item>Dark style</item>
+        <item>Light style</item>
+        <item>Happy style</item>
+    </string-array>
+
+</resources>

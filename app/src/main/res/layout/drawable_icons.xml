@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp">
+
+
+
+    <ImageView
+        android:id="@+id/ic_child_friendly"
+        style="@style/ImageViewIcon"
+        android:src="@drawable/ic_child_friendly" />
+
+    <ImageView
+        android:id="@+id/ic_motorcycle"
+        style="@style/ImageViewIcon"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/ic_motorcycle" />
+
+    <ImageView
+        android:id="@+id/ic_bus"
+        style="@style/ImageViewIcon"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/ic_bus" />
+
+</RelativeLayout>

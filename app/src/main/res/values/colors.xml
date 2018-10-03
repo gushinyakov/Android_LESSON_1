@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="drawableLight">#C2C2C2</color>
+    <color name="drawableDark">#444</color>
+    <color name="drawableHappy_one">#d6d604</color>
+    <color name="drawableHappy_two">#1daf1d</color>
+    <color name="drawableHappy_three">#1934df</color>
+
+</resources>
